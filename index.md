@@ -16,9 +16,14 @@ Here are some items I can 3D print for you. All payments are **cash only at scho
 - **Price**: $5.00
 
 ### **3. Phone Stand**
-![Phone Stand](images/phone-stand.jpg)
+![Phone Stand](images/phoneStand.jpg)
 - **Description**: A 3D-printed stand to hold your phone at a perfect angle.
 - **Price**: $4.00
+
+- ### **4. Fidget Spinner**
+![Phone Stand](images/fidgetSpinner.jpg)
+- **Description**: Fidget Spinner.
+- **Price**: $3.00
 
 ---
 ## **Order Form**
