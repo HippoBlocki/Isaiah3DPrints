@@ -5,10 +5,10 @@ Welcome to my 3D printing shop! I print cool items for students at **West Lafaye
 ## **Products**
 Here are some items I can 3D print for you. All payments are **cash only at school**.
 
-### **1. Keychain**
-![Keychain](images/keychain.jpg)
-- **Description**: A custom name keychain with any text you want.
-- **Price**: $3.00
+### **1. Phone Stand**
+![Phone Stand](images/phoneStand.jpg)
+- **Description**: Phone stand.
+- **Price**: $8.00
 
 ### **2. Mini Figurine**
 ![Mini Figurine](images/figurine.jpg)
