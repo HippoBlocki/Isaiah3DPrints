@@ -23,3 +23,17 @@ Here are some items I can 3D print for you. All payments are **cash only at scho
 ---
 ## **Order Form**
 To place an order, fill out this form and hand it to me at school with your cash payment.
+
+---
+## **How to Order**
+1. Check out the available products above.
+2. Write your order on the form.
+3. Bring the form and cash payment to me at school.
+4. I'll print your item and give it to you when it's ready!
+
+---
+### **Contact Me**
+If you have any questions, find me at school or email me at **your-email@example.com**.
+
+---
+**© 2025 Isaiah's 3D Printing Service**
