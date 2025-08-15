@@ -10,15 +10,15 @@ Here are some items I can 3D print for you. All payments are **cash only at scho
 - **Description**: Phone stand.
 - **Price**: $8.00
 
-### **2. Mini Figurine**
-![Mini Figurine](images/figurine.jpg)
+### **2. mini Dog Man**
+![Mini Dog Man](images/dog man.jpg)
 - **Description**: A small action figure (robot, animal, or character).
 - **Price**: $5.00
 
-### **3. Phone Stand**
-![Phone Stand](images/phoneStand.jpg)
-- **Description**: A 3D-printed stand to hold your phone at a perfect angle.
-- **Price**: $4.00
+### **3. Hogwarts**
+![Hogwarts castle](images/Hogwarts.jpg)
+- **Description**: A 3D-printed hogwart castle.
+- **Price**: $10.00
 
 - ### **4. Fidget Spinner**
 ![Phone Stand](images/fidgetSpinner.jpg)
